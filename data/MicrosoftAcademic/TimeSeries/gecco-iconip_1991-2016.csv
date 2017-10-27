@@ -1,0 +1,15 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,iconip,2003,1999,1,124
+gecco,iconip,2004,1999,1,115
+gecco,iconip,2005,1999,1,193
+gecco,iconip,2005,2002,1,262
+gecco,iconip,2005,2004,1,273
+gecco,iconip,2009,2002,3,200
+gecco,iconip,2009,2004,1,238
+gecco,iconip,2011,2008,1,218
+gecco,iconip,2011,2010,1,267
+gecco,iconip,2012,2006,1,107
+gecco,iconip,2013,2002,1,107
+gecco,iconip,2014,2002,1,56
+gecco,iconip,2014,2013,1,134
+gecco,iconip,2015,2011,1,136

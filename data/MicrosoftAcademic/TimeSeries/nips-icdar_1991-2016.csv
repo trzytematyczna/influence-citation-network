@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+nips,icdar,2008,2003,1,107
+nips,icdar,2008,2005,1,143
+nips,icdar,2009,2003,1,171
+nips,icdar,2009,2005,1,177
+nips,icdar,2010,2003,1,119
+nips,icdar,2012,2003,1,113
+nips,icdar,2012,2007,1,229
+nips,icdar,2012,2011,1,353

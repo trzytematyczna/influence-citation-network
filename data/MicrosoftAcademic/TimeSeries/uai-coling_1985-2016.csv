@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+uai,coling,2004,2002,1,69
+uai,coling,2009,1996,1,4
+uai,coling,2009,2006,1,40

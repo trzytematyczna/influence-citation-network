@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+emnlp,icdar,2005,1995,1,32
+emnlp,icdar,2010,2003,1,84
+emnlp,icdar,2010,2007,2,139

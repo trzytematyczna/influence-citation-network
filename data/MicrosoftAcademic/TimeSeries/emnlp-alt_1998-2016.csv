@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+emnlp,alt,2008,2004,1,121
+emnlp,alt,2008,2005,1,133
+emnlp,alt,2009,2008,1,273
+emnlp,alt,2010,1998,1,26
+emnlp,alt,2014,2010,1,232

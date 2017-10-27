@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,icml,2006,1989,1,70
+ijcnn,icml,2006,1992,2,144
+ijcnn,icml,2006,1993,3,143
+ijcnn,icml,2006,1994,3,165
+ijcnn,icml,2006,1995,2,188
+ijcnn,icml,2006,1996,3,197
+ijcnn,icml,2006,1997,4,266
+ijcnn,icml,2006,1998,4,320
+ijcnn,icml,2006,1999,2,327
+ijcnn,icml,2006,2000,5,372
+ijcnn,icml,2006,2001,1,425
+ijcnn,icml,2006,2002,5,451
+ijcnn,icml,2006,2003,2,471
+ijcnn,icml,2006,2004,6,493
+ijcnn,icml,2006,2005,4,489

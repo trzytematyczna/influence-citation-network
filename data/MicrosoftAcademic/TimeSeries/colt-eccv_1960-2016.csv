@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+colt,eccv,2013,2008,1,32
+colt,eccv,2014,2004,1,16
+colt,eccv,2014,2012,1,41

@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+bmvc,colt,2007,1992,1,13
+bmvc,colt,2008,1998,1,32
+bmvc,colt,2009,1992,1,10
+bmvc,colt,2009,1998,1,32
+bmvc,colt,2010,2001,1,53
+bmvc,colt,2011,1992,1,8
+bmvc,colt,2011,1998,1,31

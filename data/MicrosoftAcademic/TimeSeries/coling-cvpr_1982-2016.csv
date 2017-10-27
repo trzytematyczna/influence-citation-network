@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+coling,cvpr,2008,2003,1,134
+coling,cvpr,2008,2005,1,170
+coling,cvpr,2008,2007,1,189
+coling,cvpr,2010,2003,1,150
+coling,cvpr,2010,2007,1,291
+coling,cvpr,2010,2009,2,336
+coling,cvpr,2011,1997,1,7
+coling,cvpr,2012,2003,1,114
+coling,cvpr,2012,2008,1,259
+coling,cvpr,2012,2010,1,388
+coling,cvpr,2014,2006,1,118
+coling,cvpr,2014,2008,1,191
+coling,cvpr,2014,2011,4,219
+coling,cvpr,2014,2012,1,248
+coling,cvpr,2014,2013,1,248

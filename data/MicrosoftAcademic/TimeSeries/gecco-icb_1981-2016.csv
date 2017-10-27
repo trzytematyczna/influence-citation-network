@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,icb,2007,2006,1,262
+gecco,icb,2009,2006,1,285

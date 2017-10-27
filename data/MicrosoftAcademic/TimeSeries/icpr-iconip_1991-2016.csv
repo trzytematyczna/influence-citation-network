@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icpr,iconip,2002,1999,1,264
+icpr,iconip,2002,2000,1,313
+icpr,iconip,2004,2002,3,231
+icpr,iconip,2006,1997,1,210
+icpr,iconip,2006,1999,3,288
+icpr,iconip,2006,2002,1,440
+icpr,iconip,2006,2004,2,691
+icpr,iconip,2008,2002,1,294
+icpr,iconip,2008,2006,1,638

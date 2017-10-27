@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icpr,acl,1998,1993,1,21
+icpr,acl,2000,1998,3,365
+icpr,acl,2002,1993,1,82
+icpr,acl,2004,2002,2,231
+icpr,acl,2006,1996,1,196
+icpr,acl,2006,1999,1,288
+icpr,acl,2006,2002,1,440
+icpr,acl,2008,1995,1,111
+icpr,acl,2008,1996,1,105
+icpr,acl,2008,2004,1,443
+icpr,acl,2010,2006,1,213
+icpr,acl,2012,1995,1,13
+icpr,acl,2015,2002,1,12
+icpr,acl,2015,2007,1,15
+icpr,acl,2015,2009,1,18

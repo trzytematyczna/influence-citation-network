@@ -1,0 +1,15 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcai,alt,1991,1990,1,130
+ijcai,alt,1993,1990,1,63
+ijcai,alt,1995,1990,1,115
+ijcai,alt,1997,1990,1,45
+ijcai,alt,1997,1995,1,111
+ijcai,alt,2003,1998,1,126
+ijcai,alt,2003,1999,1,142
+ijcai,alt,2005,1999,1,103
+ijcai,alt,2007,1998,1,126
+ijcai,alt,2009,2004,1,202
+ijcai,alt,2009,2007,1,311
+ijcai,alt,2013,2009,1,267
+ijcai,alt,2013,2010,1,283
+ijcai,alt,2013,2012,1,318

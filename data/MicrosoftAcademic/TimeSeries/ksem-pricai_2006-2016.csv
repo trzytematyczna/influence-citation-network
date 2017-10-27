@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ksem,pricai,2007,2004,1,35
+ksem,pricai,2010,2004,2,40
+ksem,pricai,2010,2008,2,40

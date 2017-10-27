@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aamas,iccbr,1999,1995,1,17
+aamas,iccbr,2003,1995,1,68
+aamas,iccbr,2004,2001,1,167
+aamas,iccbr,2006,2001,2,146
+aamas,iccbr,2006,2003,1,204
+aamas,iccbr,2007,1995,1,52
+aamas,iccbr,2008,2005,1,260
+aamas,iccbr,2013,2012,1,159
+aamas,iccbr,2014,2001,1,57

@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icml,connection,1991,1989,1,27
+icml,connection,1992,1989,1,21
+icml,connection,1993,1989,1,16
+icml,connection,1994,1993,1,28
+icml,connection,2000,1995,1,20
+icml,connection,2003,2000,1,92
+icml,connection,2009,1999,1,46
+icml,connection,2010,2009,1,152

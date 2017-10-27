@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+accv,icann,1998,1996,1,125
+accv,icann,1998,1997,1,61
+accv,icann,2007,1999,1,59
+accv,icann,2009,2001,1,91
+accv,icann,2010,1995,1,28
+accv,icann,2010,1996,1,35
+accv,icann,2012,2010,2,389
+accv,icann,2012,2011,1,383

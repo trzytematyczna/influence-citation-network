@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,ilp,1996,1992,2,43
+pricai,ilp,1998,1992,1,32
+pricai,ilp,2000,1992,1,29
+pricai,ilp,2000,1996,1,65
+pricai,ilp,2004,2003,1,64
+pricai,ilp,2010,1999,1,27
+pricai,ilp,2012,1997,1,18
+pricai,ilp,2012,2008,1,60
+pricai,ilp,2012,2009,1,67

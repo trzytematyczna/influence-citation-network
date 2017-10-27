@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ictai,iccbr,1998,1995,1,15
+ictai,iccbr,2003,1999,1,53
+ictai,iccbr,2007,2005,1,124
+ictai,iccbr,2008,1997,1,37
+ictai,iccbr,2008,1998,1,55
+ictai,iccbr,2008,2003,1,115
+ictai,iccbr,2009,1995,1,22
+ictai,iccbr,2009,1997,2,48
+ictai,iccbr,2009,2001,1,43
+ictai,iccbr,2009,2003,1,70

@@ -1,0 +1,13 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icpr,ictai,2002,1996,1,162
+icpr,ictai,2005,2004,1,115
+icpr,ictai,2006,2004,2,691
+icpr,ictai,2006,2005,1,624
+icpr,ictai,2008,1997,1,148
+icpr,ictai,2008,1999,1,181
+icpr,ictai,2008,2003,1,385
+icpr,ictai,2008,2004,1,443
+icpr,ictai,2008,2006,1,638
+icpr,ictai,2010,2004,2,165
+icpr,ictai,2012,2009,1,221
+icpr,ictai,2013,1995,1,3

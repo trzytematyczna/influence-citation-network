@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ictai,ilp,2002,1993,1,11
+ictai,ilp,2008,1995,1,24
+ictai,ilp,2008,1999,1,50
+ictai,ilp,2008,2006,1,121
+ictai,ilp,2009,2000,1,35

@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aaai,icann,1998,1995,1,124
+aaai,icann,1998,1996,1,159
+aaai,icann,1999,1996,2,88
+aaai,icann,1999,1997,1,110
+aaai,icann,2004,1999,2,82
+aaai,icann,2006,1995,1,62
+aaai,icann,2006,1996,1,59
+aaai,icann,2007,1999,1,89
+aaai,icann,2007,2006,1,298
+aaai,icann,2013,2001,1,66
+aaai,icann,2014,1997,1,41
+aaai,icann,2014,2002,1,81
+aaai,icann,2014,2011,1,279
+aaai,icann,2015,2005,1,62
+aaai,icann,2015,2011,1,153

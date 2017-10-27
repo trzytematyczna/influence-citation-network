@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+bmvc,ecai,1991,1984,1,9
+bmvc,ecai,1992,1990,1,44
+bmvc,ecai,1999,1992,1,7
+bmvc,ecai,2001,1992,1,20
+bmvc,ecai,2004,1990,1,8
+bmvc,ecai,2004,2002,1,53
+bmvc,ecai,2005,2002,1,37
+bmvc,ecai,2014,2010,1,138

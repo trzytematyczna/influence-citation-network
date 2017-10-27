@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icb,colt,2007,1992,1,10
+icb,colt,2007,1998,2,28
+icb,colt,2009,1992,1,12
+icb,colt,2009,1998,1,27

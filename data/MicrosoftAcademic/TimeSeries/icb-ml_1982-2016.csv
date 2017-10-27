@@ -1,0 +1,15 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icb,ml,2006,1998,1,19
+icb,ml,2006,2002,1,54
+icb,ml,2006,2004,1,68
+icb,ml,2007,1995,1,15
+icb,ml,2007,1997,1,26
+icb,ml,2007,1999,1,21
+icb,ml,2009,1990,1,11
+icb,ml,2009,1999,1,27
+icb,ml,2009,2000,1,31
+icb,ml,2009,2003,1,65
+icb,ml,2012,1995,1,5
+icb,ml,2013,1995,1,5
+icb,ml,2015,1995,1,3
+icb,ml,2015,2007,1,48

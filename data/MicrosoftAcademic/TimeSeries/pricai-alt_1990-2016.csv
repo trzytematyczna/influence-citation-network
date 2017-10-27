@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,alt,1996,1990,1,41
+pricai,alt,1996,1995,1,66
+pricai,alt,1998,1990,1,27
+pricai,alt,1998,1997,1,38
+pricai,alt,2000,1990,1,21
+pricai,alt,2000,1996,1,65
+pricai,alt,2002,1996,1,26
+pricai,alt,2002,2000,1,50
+pricai,alt,2004,2001,1,53
+pricai,alt,2012,1990,1,7

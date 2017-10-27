@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+bmvc,icb,2008,2007,3,137
+bmvc,icb,2009,2006,1,159
+bmvc,icb,2009,2007,2,176
+bmvc,icb,2010,2008,1,162
+bmvc,icb,2011,2007,1,158
+bmvc,icb,2011,2009,1,201
+bmvc,icb,2012,2009,1,130
+bmvc,icb,2013,2007,1,90
+bmvc,icb,2013,2009,2,119
+bmvc,icb,2014,2013,1,184

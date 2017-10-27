@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+uai,eccv,2000,1996,1,35
+uai,eccv,2001,2000,2,36
+uai,eccv,2002,1998,1,39
+uai,eccv,2004,2002,1,69
+uai,eccv,2012,2000,1,51
+uai,eccv,2012,2002,1,95
+uai,eccv,2012,2004,2,88
+uai,eccv,2012,2006,1,73
+uai,eccv,2012,2008,1,50

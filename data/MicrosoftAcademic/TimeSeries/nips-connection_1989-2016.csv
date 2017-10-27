@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+nips,connection,1990,1989,1,21
+nips,connection,1992,1989,1,12
+nips,connection,1996,1991,1,16
+nips,connection,1998,1989,1,23
+nips,connection,2013,2007,1,174

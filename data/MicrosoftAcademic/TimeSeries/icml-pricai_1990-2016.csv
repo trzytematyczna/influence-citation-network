@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icml,pricai,2005,2000,1,108
+icml,pricai,2005,2004,1,215
+icml,pricai,2007,2000,1,93
+icml,pricai,2012,2002,1,51
+icml,pricai,2015,2010,1,72
+icml,pricai,2015,2014,1,116

@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+coling,kr,1992,1990,1,112
+coling,kr,1992,1991,1,82
+coling,kr,2002,2000,1,187
+coling,kr,2003,1991,1,4
+coling,kr,2008,1998,1,46
+coling,kr,2008,2004,1,160
+coling,kr,2010,1991,1,15
+coling,kr,2010,1998,1,57
+coling,kr,2010,2000,1,70
+coling,kr,2012,1992,1,21
+coling,kr,2012,1994,1,26

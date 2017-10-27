@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ksem,uai,2006,1987,1,8
+ksem,uai,2006,1993,1,14
+ksem,uai,2006,1995,1,16
+ksem,uai,2006,1999,1,26
+ksem,uai,2006,2001,1,39
+ksem,uai,2007,1990,1,11
+ksem,uai,2007,1992,1,9
+ksem,uai,2007,1998,2,31
+ksem,uai,2007,2001,1,24
+ksem,uai,2010,1990,1,7
+ksem,uai,2011,1993,1,6
+ksem,uai,2012,1998,1,1
+ksem,uai,2013,2012,1,23

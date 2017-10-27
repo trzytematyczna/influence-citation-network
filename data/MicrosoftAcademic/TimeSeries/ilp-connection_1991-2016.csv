@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ilp,connection,2001,1993,1,8
+ilp,connection,2003,2001,1,20
+ilp,connection,2008,2007,1,28

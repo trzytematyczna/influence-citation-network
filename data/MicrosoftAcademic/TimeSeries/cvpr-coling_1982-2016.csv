@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+cvpr,coling,1994,1992,1,89
+cvpr,coling,2001,1996,1,76
+cvpr,coling,2005,2002,1,289
+cvpr,coling,2006,1996,1,128
+cvpr,coling,2006,2000,1,261
+cvpr,coling,2010,1992,1,26
+cvpr,coling,2010,2006,1,403
+cvpr,coling,2012,2006,1,260
+cvpr,coling,2013,2006,1,311
+cvpr,coling,2013,2008,1,477
+cvpr,coling,2013,2010,1,660
+cvpr,coling,2015,2002,1,124
+cvpr,coling,2015,2014,1,927

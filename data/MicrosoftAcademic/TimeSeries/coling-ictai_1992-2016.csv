@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+coling,ictai,2004,2003,1,169
+coling,ictai,2006,2004,1,203
+coling,ictai,2008,1996,1,30
+coling,ictai,2010,2004,1,191
+coling,ictai,2012,2006,1,195
+coling,ictai,2013,2012,1,99
+coling,ictai,2014,2007,1,141

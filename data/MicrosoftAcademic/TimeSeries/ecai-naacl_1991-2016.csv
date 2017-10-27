@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,naacl,1996,1994,1,37
+ecai,naacl,2006,2003,2,55
+ecai,naacl,2008,2003,2,54
+ecai,naacl,2008,2006,3,86
+ecai,naacl,2008,2007,1,75
+ecai,naacl,2010,2006,2,57
+ecai,naacl,2010,2007,1,78

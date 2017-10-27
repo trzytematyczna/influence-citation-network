@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icpr,ijcnn,2002,1992,1,91
+icpr,ijcnn,2008,2006,2,638
+icpr,ijcnn,2010,2006,1,213
+icpr,ijcnn,2014,2006,1,31

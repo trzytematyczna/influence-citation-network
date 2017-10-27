@@ -1,0 +1,13 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+eccv,ecai,1992,1990,1,98
+eccv,ecai,1996,1988,2,36
+eccv,ecai,1996,1992,1,105
+eccv,ecai,1998,1992,1,65
+eccv,ecai,2006,2002,1,164
+eccv,ecai,2008,1990,1,29
+eccv,ecai,2008,2002,1,136
+eccv,ecai,2010,1976,1,5
+eccv,ecai,2010,1992,1,37
+eccv,ecai,2014,2004,1,200
+eccv,ecai,2014,2008,1,449
+eccv,ecai,2014,2010,1,584

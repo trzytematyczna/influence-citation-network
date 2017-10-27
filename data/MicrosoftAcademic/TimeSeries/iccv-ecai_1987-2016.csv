@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccv,ecai,1995,1990,1,52
+iccv,ecai,1995,1992,2,114
+iccv,ecai,1999,1992,1,42
+iccv,ecai,2011,2010,1,620

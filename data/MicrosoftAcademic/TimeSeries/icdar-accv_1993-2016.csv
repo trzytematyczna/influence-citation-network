@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icdar,accv,2001,1998,1,69
+icdar,accv,2007,2006,1,87
+icdar,accv,2009,2007,1,188
+icdar,accv,2011,2010,1,38
+icdar,accv,2015,2007,1,44
+icdar,accv,2015,2010,1,63
+icdar,accv,2015,2014,3,123

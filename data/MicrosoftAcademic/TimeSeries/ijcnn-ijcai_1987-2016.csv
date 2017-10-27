@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,ijcai,2006,1987,1,48
+ijcnn,ijcai,2006,1989,1,70
+ijcnn,ijcai,2006,1995,4,188
+ijcnn,ijcai,2006,1997,1,266
+ijcnn,ijcai,2006,1999,4,327
+ijcnn,ijcai,2006,2001,2,425
+ijcnn,ijcai,2006,2003,2,471
+ijcnn,ijcai,2006,2005,1,489

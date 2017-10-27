@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icml,ictai,1994,1992,1,31
+icml,ictai,2003,1994,1,34
+icml,ictai,2005,2004,2,215
+icml,ictai,2006,1994,1,31
+icml,ictai,2006,2004,2,187
+icml,ictai,2007,2004,1,176
+icml,ictai,2008,2004,2,140
+icml,ictai,2011,2004,1,92
+icml,ictai,2012,2004,1,85
+icml,ictai,2013,2004,1,130
+icml,ictai,2015,2004,1,23

@@ -1,0 +1,15 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,gecco,2002,2001,1,46
+pricai,gecco,2004,1999,1,55
+pricai,gecco,2004,2000,1,51
+pricai,gecco,2004,2001,1,53
+pricai,gecco,2008,2000,1,46
+pricai,gecco,2008,2002,1,67
+pricai,gecco,2008,2005,1,65
+pricai,gecco,2008,2006,1,85
+pricai,gecco,2008,2007,1,74
+pricai,gecco,2010,2003,1,51
+pricai,gecco,2010,2005,1,41
+pricai,gecco,2010,2008,1,68
+pricai,gecco,2012,2003,1,35
+pricai,gecco,2014,2005,1,38

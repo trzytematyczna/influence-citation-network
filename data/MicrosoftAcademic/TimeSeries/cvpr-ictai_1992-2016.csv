@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+cvpr,ictai,2005,2004,1,480
+cvpr,ictai,2006,1999,1,222
+cvpr,ictai,2006,2004,1,591
+cvpr,ictai,2007,2004,1,476
+cvpr,ictai,2009,1999,1,151
+cvpr,ictai,2009,2006,1,571
+cvpr,ictai,2013,1999,1,83
+cvpr,ictai,2013,2004,1,213

@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pris,icpr,2001,1998,1,2
+pris,icpr,2001,2000,1,2
+pris,icpr,2002,1992,1,2
+pris,icpr,2005,1998,1,1
+pris,icpr,2007,2002,1,5

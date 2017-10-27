@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,pricai,2006,1996,1,33
+ecai,pricai,2006,2004,1,75
+ecai,pricai,2008,1996,1,23
+ecai,pricai,2008,2000,1,25
+ecai,pricai,2010,2004,1,39

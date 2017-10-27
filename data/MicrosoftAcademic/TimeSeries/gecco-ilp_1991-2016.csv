@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,ilp,2002,1998,1,18
+gecco,ilp,2003,1997,2,65
+gecco,ilp,2003,1998,3,114
+gecco,ilp,2003,1999,1,124
+gecco,ilp,2003,2000,3,136
+gecco,ilp,2003,2001,1,132
+gecco,ilp,2003,2002,1,175
+gecco,ilp,2007,1996,1,72
+gecco,ilp,2007,1997,1,86
+gecco,ilp,2007,2003,1,210
+gecco,ilp,2010,1999,1,68
+gecco,ilp,2010,2006,1,154
+gecco,ilp,2012,1997,1,32

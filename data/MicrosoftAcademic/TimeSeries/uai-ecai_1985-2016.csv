@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+uai,ecai,1990,1986,1,26
+uai,ecai,1990,1988,1,36
+uai,ecai,1992,1990,1,47
+uai,ecai,1993,1992,1,40
+uai,ecai,1995,1992,1,17
+uai,ecai,1995,1994,1,36
+uai,ecai,1998,1994,1,15
+uai,ecai,1999,1998,1,17
+uai,ecai,2000,1998,1,27
+uai,ecai,2001,1998,1,23
+uai,ecai,2011,2004,2,5
+uai,ecai,2012,1994,1,29
+uai,ecai,2012,1998,1,42
+uai,ecai,2012,2004,1,88
+uai,ecai,2013,1994,1,40

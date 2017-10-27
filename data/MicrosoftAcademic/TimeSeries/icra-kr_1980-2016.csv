@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,kr,1990,1989,1,111
+icra,kr,1991,1989,3,167
+icra,kr,1997,1992,1,152
+icra,kr,2009,1992,1,68
+icra,kr,2015,1992,2,47
+icra,kr,2015,1998,1,93
+icra,kr,2015,2000,1,120

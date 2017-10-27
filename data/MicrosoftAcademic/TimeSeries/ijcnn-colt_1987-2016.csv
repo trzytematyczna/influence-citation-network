@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,colt,2006,1992,1,144
+ijcnn,colt,2006,1994,1,165
+ijcnn,colt,2006,1995,2,188
+ijcnn,colt,2006,1997,1,266
+ijcnn,colt,2006,1998,2,320
+ijcnn,colt,2006,1999,1,327
+ijcnn,colt,2006,2000,2,372
+ijcnn,colt,2006,2003,1,471
+ijcnn,colt,2006,2005,1,489

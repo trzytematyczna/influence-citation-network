@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccv,coling,1998,1992,1,13
+iccv,coling,2011,1992,2,24

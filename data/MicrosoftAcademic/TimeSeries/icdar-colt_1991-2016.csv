@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icdar,colt,2001,1992,1,17
+icdar,colt,2005,1998,1,66
+icdar,colt,2009,1998,2,68
+icdar,colt,2011,1998,1,14
+icdar,colt,2015,1992,1,4

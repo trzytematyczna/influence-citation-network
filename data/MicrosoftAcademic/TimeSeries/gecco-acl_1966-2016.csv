@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,acl,2004,1994,1,69
+gecco,acl,2009,2006,1,285
+gecco,acl,2010,2004,1,107

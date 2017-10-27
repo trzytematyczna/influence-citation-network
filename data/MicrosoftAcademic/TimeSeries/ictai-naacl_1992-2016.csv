@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ictai,naacl,2002,1994,1,22
+ictai,naacl,2002,2001,2,46
+ictai,naacl,2003,1999,1,53
+ictai,naacl,2005,1999,1,47
+ictai,naacl,2006,2003,2,28
+ictai,naacl,2006,2004,1,33
+ictai,naacl,2007,2000,1,84
+ictai,naacl,2008,1999,1,50
+ictai,naacl,2008,2003,1,115
+ictai,naacl,2008,2004,1,118
+ictai,naacl,2009,2003,1,70

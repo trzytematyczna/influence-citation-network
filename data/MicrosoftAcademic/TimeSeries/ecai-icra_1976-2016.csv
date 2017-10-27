@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,icra,1996,1989,1,8
+ecai,icra,1997,1991,1,9
+ecai,icra,1997,1996,1,7
+ecai,icra,2000,1996,1,25
+ecai,icra,2000,1999,1,35
+ecai,icra,2002,1996,2,17
+ecai,icra,2004,2001,1,72
+ecai,icra,2004,2002,1,70
+ecai,icra,2006,1996,2,33
+ecai,icra,2008,2007,1,75
+ecai,icra,2010,2004,1,39
+ecai,icra,2010,2007,1,78
+ecai,icra,2010,2009,1,87

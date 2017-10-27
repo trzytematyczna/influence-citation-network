@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+acl,icdar,1994,1993,2,53
+acl,icdar,2000,1993,1,29
+acl,icdar,2004,1995,1,32
+acl,icdar,2004,2003,1,147
+acl,icdar,2005,1995,1,40
+acl,icdar,2005,2001,1,81
+acl,icdar,2005,2003,1,154
+acl,icdar,2009,2007,1,229
+acl,icdar,2011,1995,1,24
+acl,icdar,2013,2007,1,191
+acl,icdar,2013,2009,2,253
+acl,icdar,2013,2011,1,296
+acl,icdar,2014,2007,1,147

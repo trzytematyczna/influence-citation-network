@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,eccv,2004,1998,1,111
+gecco,eccv,2005,1996,1,105
+gecco,eccv,2005,1998,1,136
+gecco,eccv,2006,1994,2,57
+gecco,eccv,2007,2002,2,224
+gecco,eccv,2008,2006,1,232
+gecco,eccv,2009,2000,1,143
+gecco,eccv,2009,2002,1,200
+gecco,eccv,2009,2006,1,285
+gecco,eccv,2009,2008,1,357
+gecco,eccv,2010,2008,2,197
+gecco,eccv,2012,1998,1,44
+gecco,eccv,2013,2002,1,107
+gecco,eccv,2013,2006,1,145
+gecco,eccv,2013,2008,2,173

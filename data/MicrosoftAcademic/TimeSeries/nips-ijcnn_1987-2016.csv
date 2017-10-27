@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+nips,ijcnn,2008,2006,2,178
+nips,ijcnn,2010,2006,2,183

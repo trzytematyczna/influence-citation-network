@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icann,acl,2001,1993,1,33
+icann,acl,2006,1993,1,30
+icann,acl,2007,2004,1,134
+icann,acl,2010,2002,1,63
+icann,acl,2011,2002,1,79
+icann,acl,2011,2005,1,102
+icann,acl,2012,2002,1,48
+icann,acl,2013,2011,1,104

@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ml,accv,2013,2006,1,156
+ml,accv,2013,2007,1,180
+ml,accv,2014,2009,1,133

@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iconip,naacl,2009,2006,1,170
+iconip,naacl,2010,2003,1,73
+iconip,naacl,2012,2003,1,148
+iconip,naacl,2012,2006,1,232
+iconip,naacl,2012,2010,1,269
+iconip,naacl,2013,2012,1,183
+iconip,naacl,2014,2000,1,47
+iconip,naacl,2014,2012,1,159
+iconip,naacl,2014,2013,1,160

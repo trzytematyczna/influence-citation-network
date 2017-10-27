@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+nips,kr,2003,1996,1,41
+nips,kr,2003,2000,1,90
+nips,kr,2004,2002,1,98
+nips,kr,2011,1996,1,25
+nips,kr,2011,2008,1,252
+nips,kr,2014,2002,1,68

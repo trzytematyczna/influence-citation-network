@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icann,naacl,2001,2000,1,99
+icann,naacl,2006,2000,1,108
+icann,naacl,2008,2000,1,108
+icann,naacl,2008,2003,1,126
+icann,naacl,2013,2012,1,105
+icann,naacl,2014,2003,1,21

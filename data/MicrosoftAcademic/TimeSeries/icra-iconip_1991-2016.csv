@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,iconip,2001,1998,1,240
+icra,iconip,2002,1995,1,175
+icra,iconip,2005,1999,2,327
+icra,iconip,2006,2004,1,588
+icra,iconip,2007,1998,1,228
+icra,iconip,2009,2002,1,352
+icra,iconip,2011,2010,1,819

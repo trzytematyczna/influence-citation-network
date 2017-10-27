@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+coling,aamas,2000,1997,1,53
+coling,aamas,2001,1997,1,15
+coling,aamas,2002,1997,1,72
+coling,aamas,2004,2000,1,116
+coling,aamas,2006,1997,1,44
+coling,aamas,2006,2000,1,100
+coling,aamas,2010,2003,1,150

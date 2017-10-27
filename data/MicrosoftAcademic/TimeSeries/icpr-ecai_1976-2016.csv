@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icpr,ecai,1990,1988,1,121
+icpr,ecai,1996,1994,1,61
+icpr,ecai,2006,1999,1,288
+icpr,ecai,2006,2004,1,691
+icpr,ecai,2008,1994,1,82

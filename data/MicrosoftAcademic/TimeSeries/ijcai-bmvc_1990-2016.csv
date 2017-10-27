@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcai,bmvc,2009,2006,1,266
+ijcai,bmvc,2009,2008,1,281
+ijcai,bmvc,2013,2006,1,139
+ijcai,bmvc,2013,2008,1,222
+ijcai,bmvc,2013,2011,1,299
+ijcai,bmvc,2015,2012,1,64

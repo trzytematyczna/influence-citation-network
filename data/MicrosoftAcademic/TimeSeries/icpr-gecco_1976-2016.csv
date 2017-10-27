@@ -1,0 +1,13 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icpr,gecco,1998,1966,1,2
+icpr,gecco,2000,1999,1,322
+icpr,gecco,2005,1999,1,77
+icpr,gecco,2005,2003,1,106
+icpr,gecco,2006,2003,1,549
+icpr,gecco,2008,2005,1,552
+icpr,gecco,2008,2006,1,638
+icpr,gecco,2008,2007,1,632
+icpr,gecco,2010,2009,1,309
+icpr,gecco,2012,2001,1,51
+icpr,gecco,2013,2012,2,16
+icpr,gecco,2014,2007,1,31

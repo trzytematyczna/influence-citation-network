@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+eccv,naacl,2012,2007,1,408
+eccv,naacl,2012,2009,1,582
+eccv,naacl,2014,2003,1,168
+eccv,naacl,2014,2004,1,200
+eccv,naacl,2014,2006,1,296
+eccv,naacl,2014,2010,2,584

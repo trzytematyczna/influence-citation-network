@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+eccv,icb,2010,2007,1,428
+eccv,icb,2010,2008,1,548
+eccv,icb,2010,2009,3,603
+eccv,icb,2012,2006,1,319
+eccv,icb,2012,2007,1,408
+eccv,icb,2012,2008,3,443
+eccv,icb,2012,2009,3,582
+eccv,icb,2012,2010,1,656
+eccv,icb,2014,2006,2,296
+eccv,icb,2014,2007,3,344
+eccv,icb,2014,2009,4,505
+eccv,icb,2014,2010,1,584
+eccv,icb,2014,2013,6,956

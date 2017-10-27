@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,cvpr,2006,1992,2,144
+ijcnn,cvpr,2006,1993,2,143
+ijcnn,cvpr,2006,1996,1,197
+ijcnn,cvpr,2006,1997,3,266
+ijcnn,cvpr,2006,1999,2,327
+ijcnn,cvpr,2006,2000,1,372
+ijcnn,cvpr,2006,2001,5,425
+ijcnn,cvpr,2006,2003,4,471
+ijcnn,cvpr,2006,2004,2,493
+ijcnn,cvpr,2006,2005,3,489

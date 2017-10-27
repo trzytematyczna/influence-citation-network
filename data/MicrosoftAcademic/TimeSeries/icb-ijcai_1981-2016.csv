@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icb,ijcai,2006,1981,1,1
+icb,ijcai,2007,1981,2,3
+icb,ijcai,2007,1985,1,3
+icb,ijcai,2009,1981,1,4
+icb,ijcai,2009,1985,1,5
+icb,ijcai,2013,2005,1,29

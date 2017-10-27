@@ -1,0 +1,17 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,colt,2001,1994,1,147
+icra,colt,2001,1996,1,184
+icra,colt,2003,1998,1,168
+icra,colt,2006,1998,1,236
+icra,colt,2007,1998,1,228
+icra,colt,2008,1992,1,85
+icra,colt,2008,1998,1,187
+icra,colt,2008,2001,1,283
+icra,colt,2008,2007,1,553
+icra,colt,2009,1990,1,66
+icra,colt,2009,1999,1,201
+icra,colt,2009,2006,1,655
+icra,colt,2011,1992,1,79
+icra,colt,2015,1992,1,47
+icra,colt,2015,1999,1,108
+icra,colt,2015,2005,1,247

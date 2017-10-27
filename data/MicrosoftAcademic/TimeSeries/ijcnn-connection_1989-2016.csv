@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,connection,2006,2000,2,372
+ijcnn,connection,2006,2003,1,471
+ijcnn,connection,2006,2004,1,493
+ijcnn,connection,2006,2005,2,489

@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+cvpr,alt,2009,1999,1,151
+cvpr,alt,2010,2008,1,577
+cvpr,alt,2013,2007,1,402
+cvpr,alt,2014,2005,1,175
+cvpr,alt,2015,2005,1,239
+cvpr,alt,2015,2007,1,383
+cvpr,alt,2015,2010,1,575

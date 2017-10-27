@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,iccbr,2000,1999,1,81
+pricai,iccbr,2004,1999,1,55
+pricai,iccbr,2008,1997,1,33
+pricai,iccbr,2008,1999,1,31

@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,icdar,2005,2001,1,166
+gecco,icdar,2006,2003,1,155
+gecco,icdar,2007,2003,1,210
+gecco,icdar,2007,2005,1,305
+gecco,icdar,2009,2003,1,212
+gecco,icdar,2009,2007,2,316
+gecco,icdar,2013,2005,1,123
+gecco,icdar,2014,2001,1,46
+gecco,icdar,2015,2007,1,102

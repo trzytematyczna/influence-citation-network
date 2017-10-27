@@ -1,0 +1,13 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icml,iconip,2003,1998,1,64
+icml,iconip,2005,1994,1,36
+icml,iconip,2005,1998,2,86
+icml,iconip,2006,2005,1,223
+icml,iconip,2007,1999,1,68
+icml,iconip,2008,1999,1,63
+icml,iconip,2008,2007,1,233
+icml,iconip,2010,1996,1,18
+icml,iconip,2011,2005,1,82
+icml,iconip,2012,2009,1,237
+icml,iconip,2013,2010,1,299
+icml,iconip,2014,2012,2,440

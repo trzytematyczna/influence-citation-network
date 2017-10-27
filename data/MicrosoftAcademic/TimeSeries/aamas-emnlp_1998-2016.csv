@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aamas,emnlp,2007,2002,1,155
+aamas,emnlp,2007,2003,2,180
+aamas,emnlp,2007,2004,1,215
+aamas,emnlp,2012,2006,1,160
+aamas,emnlp,2012,2008,1,191

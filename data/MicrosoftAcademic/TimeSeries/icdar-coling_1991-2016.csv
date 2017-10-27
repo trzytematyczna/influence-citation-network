@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icdar,coling,1993,1980,1,6
+icdar,coling,1993,1992,1,47
+icdar,coling,1995,1994,2,39
+icdar,coling,1997,1996,1,35
+icdar,coling,2003,1998,2,110
+icdar,coling,2007,1996,1,27
+icdar,coling,2009,1986,1,7
+icdar,coling,2009,2004,1,126

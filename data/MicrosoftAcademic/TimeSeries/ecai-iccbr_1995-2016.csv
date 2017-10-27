@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,iccbr,1996,1995,1,28
+ecai,iccbr,2000,1995,1,19
+ecai,iccbr,2002,1997,1,26
+ecai,iccbr,2002,2001,1,27
+ecai,iccbr,2004,2001,1,72
+ecai,iccbr,2004,2003,1,65
+ecai,iccbr,2006,2005,1,73
+ecai,iccbr,2010,2007,1,78

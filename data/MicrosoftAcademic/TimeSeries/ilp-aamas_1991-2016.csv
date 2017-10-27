@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ilp,aamas,2005,2004,1,37
+ilp,aamas,2007,2005,1,31
+ilp,aamas,2007,2006,1,26
+ilp,aamas,2009,2006,1,31

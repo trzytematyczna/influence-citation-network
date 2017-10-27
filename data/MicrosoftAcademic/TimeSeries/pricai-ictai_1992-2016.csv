@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,ictai,2004,1999,1,55
+pricai,ictai,2004,2001,1,53
+pricai,ictai,2004,2003,2,64
+pricai,ictai,2006,1997,1,47
+pricai,ictai,2006,2004,1,122
+pricai,ictai,2010,2007,1,66
+pricai,ictai,2010,2008,1,68
+pricai,ictai,2012,2005,1,52
+pricai,ictai,2012,2010,1,72
+pricai,ictai,2012,2011,1,58

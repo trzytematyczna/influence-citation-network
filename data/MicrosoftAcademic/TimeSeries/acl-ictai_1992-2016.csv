@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+acl,ictai,2001,1997,1,31
+acl,ictai,2005,2004,1,192
+acl,ictai,2006,2002,1,120
+acl,ictai,2006,2004,1,146
+acl,ictai,2007,2004,1,136
+acl,ictai,2008,2002,1,80
+acl,ictai,2008,2004,1,135
+acl,ictai,2014,2007,1,147

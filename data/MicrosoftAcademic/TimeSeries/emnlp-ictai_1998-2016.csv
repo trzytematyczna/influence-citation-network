@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+emnlp,ictai,2011,2004,2,101
+emnlp,ictai,2013,2004,1,87

@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+emnlp,ecai,2000,1990,1,6
+emnlp,ecai,2008,1996,1,20
+emnlp,ecai,2008,2004,1,121
+emnlp,ecai,2009,2004,1,161
+emnlp,ecai,2010,2008,1,170
+emnlp,ecai,2011,2004,1,101
+emnlp,ecai,2011,2008,1,189
+emnlp,ecai,2011,2010,1,292
+emnlp,ecai,2012,2010,1,251

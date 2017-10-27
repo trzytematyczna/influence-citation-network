@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,bmvc,2007,2005,1,305
+gecco,bmvc,2008,2003,1,142
+gecco,bmvc,2009,2004,1,238
+gecco,bmvc,2009,2006,1,285
+gecco,bmvc,2012,2000,1,60
+gecco,bmvc,2013,1998,1,67
+gecco,bmvc,2013,2006,1,145
+gecco,bmvc,2013,2010,1,213

@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,ictai,2006,2000,1,372
+ijcnn,ictai,2006,2002,1,451
+ijcnn,ictai,2006,2004,2,493

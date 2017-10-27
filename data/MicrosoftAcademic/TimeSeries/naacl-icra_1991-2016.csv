@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+naacl,icra,2003,2002,1,140
+naacl,icra,2011,1994,1,2
+naacl,icra,2012,2011,1,161

@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,iccbr,2001,1995,1,7
+gecco,iccbr,2001,1997,1,12
+gecco,iccbr,2003,1995,1,59
+gecco,iccbr,2003,1997,1,65

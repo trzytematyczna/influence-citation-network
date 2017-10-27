@@ -1,0 +1,13 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+acl,ilp,1998,1997,1,77
+acl,ilp,2000,1997,1,42
+acl,ilp,2008,1996,1,24
+acl,ilp,2009,1999,1,52
+acl,ilp,2010,2009,2,349
+acl,ilp,2011,1992,1,14
+acl,ilp,2011,2009,3,363
+acl,ilp,2012,2008,1,231
+acl,ilp,2012,2009,2,237
+acl,ilp,2013,2009,2,253
+acl,ilp,2014,2003,1,83
+acl,ilp,2014,2009,1,203

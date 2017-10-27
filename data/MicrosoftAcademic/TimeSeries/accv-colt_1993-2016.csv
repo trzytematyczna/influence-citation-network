@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+accv,colt,1995,1993,1,32
+accv,colt,2006,1992,1,31
+accv,colt,2006,1998,1,103
+accv,colt,2007,1998,1,68
+accv,colt,2009,2001,2,91
+accv,colt,2010,1992,1,29
+accv,colt,2010,1999,2,63
+accv,colt,2010,2003,1,152
+accv,colt,2012,1992,1,13
+accv,colt,2012,1998,1,54
+accv,colt,2012,1999,1,56
+accv,colt,2014,1992,1,15
+accv,colt,2014,1998,1,35

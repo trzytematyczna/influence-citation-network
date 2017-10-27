@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+cvpr,iconip,2001,1999,1,176
+cvpr,iconip,2004,1992,1,55
+cvpr,iconip,2004,1999,1,217
+cvpr,iconip,2005,2002,1,289
+cvpr,iconip,2010,2007,1,514
+cvpr,iconip,2012,2008,1,354
+cvpr,iconip,2012,2009,1,463
+cvpr,iconip,2014,1992,1,27
+cvpr,iconip,2014,2002,1,82
+cvpr,iconip,2015,2010,1,575
+cvpr,iconip,2015,2014,1,927

@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icb,icra,2006,2001,1,39
+icb,icra,2007,1991,1,6
+icb,icra,2009,1991,1,11
+icb,icra,2009,2000,1,31
+icb,icra,2009,2007,1,171
+icb,icra,2012,2007,1,51

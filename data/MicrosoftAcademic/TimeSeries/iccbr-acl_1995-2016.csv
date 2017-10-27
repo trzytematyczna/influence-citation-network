@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccbr,acl,2005,2001,1,52
+iccbr,acl,2007,1993,1,7
+iccbr,acl,2010,2002,2,14
+iccbr,acl,2010,2004,1,27
+iccbr,acl,2011,1994,1,4
+iccbr,acl,2011,2007,1,27
+iccbr,acl,2012,2007,2,28
+iccbr,acl,2012,2010,1,22
+iccbr,acl,2014,2002,1,14
+iccbr,acl,2014,2009,1,40
+iccbr,acl,2014,2011,1,30

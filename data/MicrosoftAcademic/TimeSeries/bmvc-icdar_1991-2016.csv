@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+bmvc,icdar,1999,1995,1,21
+bmvc,icdar,2005,1995,1,12
+bmvc,icdar,2011,2003,1,67
+bmvc,icdar,2012,2003,1,48
+bmvc,icdar,2012,2005,1,78
+bmvc,icdar,2014,2003,1,33
+bmvc,icdar,2014,2005,1,50
+bmvc,icdar,2014,2007,1,75
+bmvc,icdar,2014,2011,2,143
+bmvc,icdar,2014,2013,1,184

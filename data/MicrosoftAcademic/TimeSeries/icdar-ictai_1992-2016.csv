@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icdar,ictai,2005,2004,1,146
+icdar,ictai,2009,2004,1,126
+icdar,ictai,2009,2008,1,143
+icdar,ictai,2015,2003,1,31

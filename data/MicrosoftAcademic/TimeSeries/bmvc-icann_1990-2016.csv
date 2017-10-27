@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+bmvc,icann,1998,1996,1,64
+bmvc,icann,1999,1996,1,28
+bmvc,icann,1999,1998,1,40
+bmvc,icann,2006,1998,2,29
+bmvc,icann,2010,1996,1,15
+bmvc,icann,2011,2007,1,158
+bmvc,icann,2011,2010,1,209
+bmvc,icann,2012,1999,1,27
+bmvc,icann,2013,1991,1,8
+bmvc,icann,2014,2012,1,180

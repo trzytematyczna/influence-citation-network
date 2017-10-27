@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+emnlp,ilp,2010,1992,1,12
+emnlp,ilp,2010,1996,1,23
+emnlp,ilp,2011,1995,1,25
+emnlp,ilp,2011,2009,2,255
+emnlp,ilp,2012,1997,1,23
+emnlp,ilp,2012,2008,1,170
+emnlp,ilp,2012,2009,1,200
+emnlp,ilp,2012,2011,1,260
+emnlp,ilp,2013,2009,3,193
+emnlp,ilp,2014,2009,1,187

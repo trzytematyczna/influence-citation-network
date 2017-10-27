@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,coling,1992,1990,1,6
+ecai,coling,1996,1990,1,7
+ecai,coling,1996,1992,1,20
+ecai,coling,1998,1986,1,3
+ecai,coling,1998,1996,1,10
+ecai,coling,2002,1990,1,11
+ecai,coling,2006,1992,1,17
+ecai,coling,2006,1996,3,33
+ecai,coling,2006,2004,1,75
+ecai,coling,2006,2005,1,73
+ecai,coling,2008,1992,1,12
+ecai,coling,2008,2002,1,41
+ecai,coling,2008,2006,2,86
+ecai,coling,2010,1992,1,9
+ecai,coling,2010,2009,1,87

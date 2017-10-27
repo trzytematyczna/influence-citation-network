@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ml,bmvc,2004,1990,1,12
+ml,bmvc,2008,2005,1,74
+ml,bmvc,2013,2010,1,243
+ml,bmvc,2014,2005,1,66
+ml,bmvc,2014,2006,2,102
+ml,bmvc,2015,2011,1,103
+ml,bmvc,2015,2014,1,37

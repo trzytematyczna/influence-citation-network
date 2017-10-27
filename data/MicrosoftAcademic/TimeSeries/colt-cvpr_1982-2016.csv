@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+colt,cvpr,2005,1997,1,23
+colt,cvpr,2008,2001,1,5
+colt,cvpr,2013,2008,1,32

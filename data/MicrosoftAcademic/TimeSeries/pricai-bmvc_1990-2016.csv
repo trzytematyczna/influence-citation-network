@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,bmvc,2004,1998,1,44
+pricai,bmvc,2006,2001,1,74
+pricai,bmvc,2010,1998,1,15
+pricai,bmvc,2010,2009,1,48
+pricai,bmvc,2014,2010,1,64
+pricai,bmvc,2014,2011,1,76

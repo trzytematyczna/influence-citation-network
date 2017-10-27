@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icann,aamas,2005,1997,1,94
+icann,aamas,2008,2005,1,123
+icann,aamas,2009,2004,1,139
+icann,aamas,2011,1998,1,57
+icann,aamas,2011,2001,1,65
+icann,aamas,2011,2004,1,105
+icann,aamas,2012,2002,1,48
+icann,aamas,2014,2013,1,58

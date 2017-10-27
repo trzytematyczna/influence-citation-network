@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+nips,accv,2001,2000,1,69
+nips,accv,2005,2004,1,95
+nips,accv,2011,2010,1,297
+nips,accv,2012,2009,1,319
+nips,accv,2012,2010,1,359
+nips,accv,2013,2009,1,263
+nips,accv,2013,2012,2,468
+nips,accv,2014,2006,1,167

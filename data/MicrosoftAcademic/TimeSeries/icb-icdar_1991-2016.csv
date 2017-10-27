@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icb,icdar,2006,2001,1,39
+icb,icdar,2007,1995,1,15
+icb,icdar,2007,1997,1,26
+icb,icdar,2007,2001,2,39
+icb,icdar,2007,2003,1,68
+icb,icdar,2007,2005,1,93
+icb,icdar,2009,2001,2,37
+icb,icdar,2009,2003,6,65
+icb,icdar,2009,2005,2,115
+icb,icdar,2009,2007,1,171
+icb,icdar,2013,1995,1,5
+icb,icdar,2015,2003,1,21
+icb,icdar,2015,2005,2,42
+icb,icdar,2015,2007,1,48
+icb,icdar,2015,2011,2,61

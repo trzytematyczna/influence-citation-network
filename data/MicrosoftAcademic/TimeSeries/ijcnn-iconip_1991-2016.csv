@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,iconip,2000,1998,1,9
+ijcnn,iconip,2006,1992,1,144
+ijcnn,iconip,2006,1995,1,188
+ijcnn,iconip,2006,1998,1,320
+ijcnn,iconip,2006,1999,2,327
+ijcnn,iconip,2006,2000,1,372
+ijcnn,iconip,2006,2001,1,425
+ijcnn,iconip,2006,2002,12,451
+ijcnn,iconip,2006,2004,9,493
+ijcnn,iconip,2006,2005,1,489

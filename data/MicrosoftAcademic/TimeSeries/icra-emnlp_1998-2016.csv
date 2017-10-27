@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,emnlp,2007,2002,1,354
+icra,emnlp,2008,2002,1,330
+icra,emnlp,2009,2004,1,448
+icra,emnlp,2015,2010,1,522
+icra,emnlp,2015,2013,1,796

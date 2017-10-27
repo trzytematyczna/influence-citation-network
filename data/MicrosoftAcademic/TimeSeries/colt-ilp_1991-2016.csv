@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+colt,ilp,1994,1992,1,51
+colt,ilp,1994,1993,1,51
+colt,ilp,1996,1992,1,28
+colt,ilp,1997,1992,1,38
+colt,ilp,1998,1997,1,40
+colt,ilp,1999,1992,1,21
+colt,ilp,1999,1996,1,44
+colt,ilp,1999,1997,2,46
+colt,ilp,2009,1998,1,6
+colt,ilp,2014,2009,1,24

@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+cvpr,ecai,1989,1982,1,11
+cvpr,ecai,1994,1992,1,89
+cvpr,ecai,1997,1984,1,8
+cvpr,ecai,2003,2002,1,282
+cvpr,ecai,2004,2002,2,291
+cvpr,ecai,2005,2002,1,289
+cvpr,ecai,2006,2002,1,301
+cvpr,ecai,2009,1990,1,31
+cvpr,ecai,2009,2008,1,714
+cvpr,ecai,2010,1976,1,7
+cvpr,ecai,2013,2008,1,477
+cvpr,ecai,2014,2004,1,154
+cvpr,ecai,2015,2010,1,575

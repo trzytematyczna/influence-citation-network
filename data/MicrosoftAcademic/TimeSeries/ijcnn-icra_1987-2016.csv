@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,icra,2006,1986,1,40
+ijcnn,icra,2006,1989,1,70
+ijcnn,icra,2006,1990,1,76
+ijcnn,icra,2006,1991,1,99
+ijcnn,icra,2006,1992,1,144
+ijcnn,icra,2006,1993,2,143
+ijcnn,icra,2006,1997,1,266
+ijcnn,icra,2006,1998,4,320
+ijcnn,icra,2006,1999,1,327
+ijcnn,icra,2006,2000,2,372
+ijcnn,icra,2006,2001,3,425
+ijcnn,icra,2006,2003,1,471
+ijcnn,icra,2006,2004,3,493
+ijcnn,icra,2006,2005,2,489
+ijcnn,icra,2009,2007,1,1

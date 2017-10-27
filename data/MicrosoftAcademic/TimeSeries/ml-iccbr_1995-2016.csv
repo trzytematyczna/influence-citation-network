@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ml,iccbr,2003,1995,1,43
+ml,iccbr,2004,1999,1,72
+ml,iccbr,2006,2003,1,125
+ml,iccbr,2008,1999,1,46
+ml,iccbr,2011,2007,1,147
+ml,iccbr,2012,1995,1,18
+ml,iccbr,2012,2009,1,146
+ml,iccbr,2012,2011,1,65
+ml,iccbr,2013,2009,1,229

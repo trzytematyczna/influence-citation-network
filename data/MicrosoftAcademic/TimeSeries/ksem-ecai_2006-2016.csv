@@ -1,0 +1,13 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ksem,ecai,2006,1992,1,12
+ksem,ecai,2006,2000,2,35
+ksem,ecai,2006,2004,2,48
+ksem,ecai,2007,1992,1,9
+ksem,ecai,2007,2004,1,35
+ksem,ecai,2007,2006,1,38
+ksem,ecai,2009,2004,1,33
+ksem,ecai,2010,2004,1,40
+ksem,ecai,2011,2004,1,32
+ksem,ecai,2013,2008,1,46
+ksem,ecai,2013,2010,1,29
+ksem,ecai,2014,2008,1,22

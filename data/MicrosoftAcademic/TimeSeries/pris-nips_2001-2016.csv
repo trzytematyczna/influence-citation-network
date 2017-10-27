@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pris,nips,2002,1995,1,1
+pris,nips,2003,1995,1,1
+pris,nips,2003,2001,1,3
+pris,nips,2006,1989,1,3
+pris,nips,2006,1996,1,1
+pris,nips,2006,2004,1,11
+pris,nips,2007,2000,1,5
+pris,nips,2008,2002,1,3
+pris,nips,2008,2003,1,3

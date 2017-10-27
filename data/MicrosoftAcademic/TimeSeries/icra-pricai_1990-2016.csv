@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,pricai,2007,2000,1,309
+icra,pricai,2008,2000,1,252
+icra,pricai,2008,2004,2,462
+icra,pricai,2011,2004,1,524
+icra,pricai,2015,2012,1,680
+icra,pricai,2016,2012,1,13

@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icdar,icann,1999,1998,1,17
+icdar,icann,2001,1995,1,67
+icdar,icann,2001,1998,1,69
+icdar,icann,2003,1996,1,69
+icdar,icann,2005,1993,1,32
+icdar,icann,2009,1995,1,50
+icdar,icann,2009,1998,1,68
+icdar,icann,2011,2007,1,30

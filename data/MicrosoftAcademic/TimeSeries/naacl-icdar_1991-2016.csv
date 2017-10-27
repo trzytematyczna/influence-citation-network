@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+naacl,icdar,1994,1993,1,38
+naacl,icdar,2003,1991,1,22
+naacl,icdar,2006,1995,1,19

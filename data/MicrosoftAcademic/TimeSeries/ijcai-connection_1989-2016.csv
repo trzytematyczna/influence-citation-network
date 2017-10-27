@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcai,connection,1993,1989,1,59
+ijcai,connection,1995,1991,1,139
+ijcai,connection,1995,1992,5,162
+ijcai,connection,1996,1992,1,4
+ijcai,connection,1999,1991,1,55
+ijcai,connection,1999,1992,1,65
+ijcai,connection,2009,2008,1,281
+ijcai,connection,2011,2006,1,179

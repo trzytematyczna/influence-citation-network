@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,emnlp,2009,2007,1,316
+gecco,emnlp,2012,2008,1,165
+gecco,emnlp,2013,2005,1,123
+gecco,emnlp,2013,2008,1,173
+gecco,emnlp,2014,2008,1,98

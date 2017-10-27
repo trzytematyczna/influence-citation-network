@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aamas,alt,2007,2002,1,155
+aamas,alt,2015,2011,1,242
+aamas,alt,2015,2012,1,236

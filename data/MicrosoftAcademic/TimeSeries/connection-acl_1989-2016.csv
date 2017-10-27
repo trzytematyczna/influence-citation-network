@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+connection,acl,1994,1990,1,7
+connection,acl,2005,1998,1,13
+connection,acl,2007,2004,1,66
+connection,acl,2008,2000,1,14
+connection,acl,2010,1995,1,57
+connection,acl,2010,1998,1,76
+connection,acl,2013,2011,1,38

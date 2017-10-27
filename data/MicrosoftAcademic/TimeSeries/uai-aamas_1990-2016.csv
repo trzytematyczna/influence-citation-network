@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+uai,aamas,2004,2002,1,69
+uai,aamas,2005,2002,1,11
+uai,aamas,2009,2006,1,40
+uai,aamas,2009,2008,1,59
+uai,aamas,2010,2008,1,3
+uai,aamas,2012,2001,1,77
+uai,aamas,2012,2006,1,73
+uai,aamas,2012,2007,1,65
+uai,aamas,2012,2008,2,50
+uai,aamas,2012,2009,2,28
+uai,aamas,2012,2011,2,17
+uai,aamas,2013,2011,1,6
+uai,aamas,2014,2003,1,4

@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+uai,emnlp,2012,2001,1,77
+uai,emnlp,2012,2002,2,95
+uai,emnlp,2012,2004,1,88
+uai,emnlp,2012,2006,1,73
+uai,emnlp,2012,2007,2,65

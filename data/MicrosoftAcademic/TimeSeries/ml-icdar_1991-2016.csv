@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ml,icdar,2001,1995,1,43
+ml,icdar,2012,2009,1,146
+ml,icdar,2012,2011,1,65
+ml,icdar,2013,2003,1,115

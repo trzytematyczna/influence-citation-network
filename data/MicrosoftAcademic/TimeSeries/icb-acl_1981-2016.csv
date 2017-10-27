@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icb,acl,2013,2004,1,31
+icb,acl,2013,2010,1,75
+icb,acl,2013,2012,1,100

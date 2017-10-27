@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+emnlp,iconip,2008,2007,1,153
+emnlp,iconip,2009,2007,1,210

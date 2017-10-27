@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccv,emnlp,2005,2002,1,242
+iccv,emnlp,2005,2004,1,445
+iccv,emnlp,2011,2006,1,306
+iccv,emnlp,2011,2009,1,547
+iccv,emnlp,2013,2002,1,114
+iccv,emnlp,2013,2006,1,303
+iccv,emnlp,2013,2007,1,379
+iccv,emnlp,2013,2008,2,460
+iccv,emnlp,2013,2009,2,560
+iccv,emnlp,2013,2010,1,662
+iccv,emnlp,2013,2011,2,779

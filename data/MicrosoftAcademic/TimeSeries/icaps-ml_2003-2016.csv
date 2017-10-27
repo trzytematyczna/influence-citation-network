@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icaps,ml,2009,2002,1,5
+icaps,ml,2010,2000,1,14
+icaps,ml,2010,2002,1,11
+icaps,ml,2010,2004,1,16
+icaps,ml,2010,2009,1,38
+icaps,ml,2011,1989,1,2
+icaps,ml,2012,2002,1,8
+icaps,ml,2013,2002,1,5
+icaps,ml,2014,2002,1,5
+icaps,ml,2014,2006,1,9
+icaps,ml,2014,2010,1,18

@@ -1,0 +1,14 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icann,ictai,1994,1992,1,2
+icann,ictai,2005,1997,1,94
+icann,ictai,2005,2004,1,182
+icann,ictai,2006,1999,1,95
+icann,ictai,2006,2004,2,144
+icann,ictai,2007,1998,1,61
+icann,ictai,2008,2004,1,109
+icann,ictai,2009,2004,1,139
+icann,ictai,2011,2008,1,155
+icann,ictai,2012,2006,1,83
+icann,ictai,2013,1999,1,34
+icann,ictai,2013,2002,1,41
+icann,ictai,2014,2009,1,51

@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcai,ksem,2007,2006,2,247
+ijcai,ksem,2008,2006,1,14
+ijcai,ksem,2009,2007,1,311
+ijcai,ksem,2013,2007,1,179
+ijcai,ksem,2015,2006,1,30

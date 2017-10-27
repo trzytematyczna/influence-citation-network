@@ -1,0 +1,15 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+gecco,ijcnn,2003,1999,1,124
+gecco,ijcnn,2005,1999,1,193
+gecco,ijcnn,2007,1999,1,163
+gecco,ijcnn,2009,1999,1,129
+gecco,ijcnn,2009,2006,3,285
+gecco,ijcnn,2010,1999,1,68
+gecco,ijcnn,2011,1999,1,82
+gecco,ijcnn,2012,1999,1,60
+gecco,ijcnn,2013,1999,1,59
+gecco,ijcnn,2013,2006,2,145
+gecco,ijcnn,2014,1999,1,28
+gecco,ijcnn,2014,2006,1,67
+gecco,ijcnn,2015,1999,1,53
+gecco,ijcnn,2015,2006,1,91

@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+nips,gecco,2014,2010,1,281
+nips,gecco,2014,2011,1,314
+nips,gecco,2014,2012,1,433

@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,ictai,1996,1995,1,186
+icra,ictai,2005,1995,1,166
+icra,ictai,2006,2004,1,588
+icra,ictai,2008,1995,1,110
+icra,ictai,2009,2005,1,551
+icra,ictai,2009,2007,1,742
+icra,ictai,2011,1996,1,156
+icra,ictai,2011,2004,1,524
+icra,ictai,2011,2005,1,577

@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,gecco,2002,1999,1,24
+ecai,gecco,2010,2008,1,86

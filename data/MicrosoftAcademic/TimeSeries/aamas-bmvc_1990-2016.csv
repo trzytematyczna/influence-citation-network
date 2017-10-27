@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aamas,bmvc,2011,2008,1,202
+aamas,bmvc,2013,2005,1,120
+aamas,bmvc,2013,2006,1,154

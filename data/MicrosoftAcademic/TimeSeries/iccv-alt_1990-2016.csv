@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccv,alt,2009,2007,1,654
+iccv,alt,2010,1990,1,8
+iccv,alt,2013,2009,1,560

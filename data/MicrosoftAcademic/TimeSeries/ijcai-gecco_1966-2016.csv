@@ -1,0 +1,5 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcai,gecco,2003,2001,1,207
+ijcai,gecco,2007,2006,1,247
+ijcai,gecco,2011,2010,1,248
+ijcai,gecco,2013,2006,1,139

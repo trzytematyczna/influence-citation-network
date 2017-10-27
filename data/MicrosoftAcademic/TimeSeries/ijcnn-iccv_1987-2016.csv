@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ijcnn,iccv,2006,1993,1,143
+ijcnn,iccv,2006,1998,2,320
+ijcnn,iccv,2006,1999,4,327
+ijcnn,iccv,2006,2001,3,425
+ijcnn,iccv,2006,2003,3,471
+ijcnn,iccv,2006,2005,2,489

@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icml,kr,1993,1992,1,27
+icml,kr,2005,2000,1,108
+icml,kr,2013,1991,1,16

@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccbr,coling,2010,1992,1,6
+iccbr,coling,2010,2002,1,14
+iccbr,coling,2010,2008,1,29
+iccbr,coling,2010,2009,1,43
+iccbr,coling,2012,2004,1,8

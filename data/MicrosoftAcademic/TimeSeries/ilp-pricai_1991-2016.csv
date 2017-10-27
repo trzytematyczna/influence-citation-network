@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ilp,pricai,1997,1990,1,11
+ilp,pricai,2010,2000,1,7
+ilp,pricai,2010,2002,1,11

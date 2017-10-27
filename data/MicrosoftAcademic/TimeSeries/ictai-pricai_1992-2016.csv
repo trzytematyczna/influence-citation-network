@@ -1,0 +1,7 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ictai,pricai,1999,1998,1,45
+ictai,pricai,2005,2000,1,56
+ictai,pricai,2007,2004,1,138
+ictai,pricai,2007,2006,1,113
+ictai,pricai,2010,2000,1,1
+ictai,pricai,2014,2008,1,12

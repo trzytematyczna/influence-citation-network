@@ -1,0 +1,8 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icdar,iconip,2003,1994,1,54
+icdar,iconip,2003,2000,1,107
+icdar,iconip,2005,2004,1,146
+icdar,iconip,2007,2002,1,78
+icdar,iconip,2007,2004,1,73
+icdar,iconip,2011,2002,1,19
+icdar,iconip,2015,2012,1,84

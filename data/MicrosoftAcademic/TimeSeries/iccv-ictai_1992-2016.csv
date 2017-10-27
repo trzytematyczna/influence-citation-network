@@ -1,0 +1,10 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccv,ictai,2005,2004,1,445
+iccv,ictai,2007,1997,1,122
+iccv,ictai,2007,2004,1,418
+iccv,ictai,2009,2004,1,338
+iccv,ictai,2009,2006,1,491
+iccv,ictai,2010,2005,1,81
+iccv,ictai,2011,1999,1,78
+iccv,ictai,2012,2004,1,126
+iccv,ictai,2013,2004,1,240

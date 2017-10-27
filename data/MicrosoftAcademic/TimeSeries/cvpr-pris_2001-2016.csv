@@ -1,0 +1,3 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+cvpr,pris,2008,2001,1,323
+cvpr,pris,2011,2006,1,237

@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ictai,bmvc,2005,1992,1,13
+ictai,bmvc,2005,1994,1,20
+ictai,bmvc,2007,2000,1,84
+ictai,bmvc,2007,2001,1,95
+ictai,bmvc,2007,2002,2,96

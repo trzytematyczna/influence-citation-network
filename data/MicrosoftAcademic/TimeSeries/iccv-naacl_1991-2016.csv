@@ -1,0 +1,11 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+iccv,naacl,2005,2003,1,379
+iccv,naacl,2005,2004,1,445
+iccv,naacl,2007,2003,2,413
+iccv,naacl,2007,2006,1,583
+iccv,naacl,2011,2003,1,188
+iccv,naacl,2011,2007,1,406
+iccv,naacl,2012,2007,1,207
+iccv,naacl,2013,2004,1,240
+iccv,naacl,2013,2010,2,662
+iccv,naacl,2013,2012,1,919

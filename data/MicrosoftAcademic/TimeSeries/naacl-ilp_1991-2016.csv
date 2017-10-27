@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+naacl,ilp,2006,1997,1,25
+naacl,ilp,2012,2010,1,174
+naacl,ilp,2013,2009,1,134

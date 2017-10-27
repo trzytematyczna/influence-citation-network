@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ksem,nips,2006,2001,1,39
+ksem,nips,2007,1997,1,17
+ksem,nips,2007,1999,1,25
+ksem,nips,2009,1995,1,12
+ksem,nips,2009,2004,1,33
+ksem,nips,2011,2004,2,32
+ksem,nips,2014,2004,2,15
+ksem,nips,2014,2009,1,11

@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+ecai,emnlp,2006,2004,2,75
+ecai,emnlp,2008,2004,1,53
+ecai,emnlp,2008,2005,2,75
+ecai,emnlp,2008,2006,1,86
+ecai,emnlp,2010,2005,1,72
+ecai,emnlp,2010,2007,2,78
+ecai,emnlp,2010,2008,2,86
+ecai,emnlp,2010,2009,2,87

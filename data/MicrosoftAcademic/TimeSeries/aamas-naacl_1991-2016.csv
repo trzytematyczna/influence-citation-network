@@ -1,0 +1,9 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aamas,naacl,2002,2000,1,170
+aamas,naacl,2003,2000,1,134
+aamas,naacl,2005,2000,1,126
+aamas,naacl,2006,2003,1,204
+aamas,naacl,2007,2003,1,180
+aamas,naacl,2008,2004,1,216
+aamas,naacl,2009,1999,1,77
+aamas,naacl,2014,2006,1,132

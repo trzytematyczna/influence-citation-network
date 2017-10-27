@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+icra,ijcnn,2008,2006,2,605
+icra,ijcnn,2009,2006,1,655
+icra,ijcnn,2011,2006,2,660
+icra,ijcnn,2012,2006,3,34
+icra,ijcnn,2014,2006,1,19

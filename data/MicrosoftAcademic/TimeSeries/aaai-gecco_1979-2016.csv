@@ -1,0 +1,16 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aaai,gecco,2000,1999,1,143
+aaai,gecco,2003,2000,1,3
+aaai,gecco,2005,2002,1,180
+aaai,gecco,2006,2000,1,106
+aaai,gecco,2006,2004,1,253
+aaai,gecco,2006,2005,1,315
+aaai,gecco,2007,2002,2,130
+aaai,gecco,2007,2003,1,166
+aaai,gecco,2007,2005,1,289
+aaai,gecco,2007,2006,1,298
+aaai,gecco,2008,2006,2,267
+aaai,gecco,2008,2007,2,364
+aaai,gecco,2010,2005,2,183
+aaai,gecco,2010,2006,1,202
+aaai,gecco,2015,2013,1,210

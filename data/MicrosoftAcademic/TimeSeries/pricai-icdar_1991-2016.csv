@@ -1,0 +1,6 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+pricai,icdar,1996,1995,1,66
+pricai,icdar,2000,1993,1,44
+pricai,icdar,2006,1999,1,71
+pricai,icdar,2006,2003,1,97
+pricai,icdar,2008,2001,2,57

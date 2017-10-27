@@ -1,0 +1,4 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+aamas,iconip,2011,1998,1,61
+aamas,iconip,2012,2010,1,204
+aamas,iconip,2014,2010,1,188

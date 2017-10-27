@@ -1,0 +1,12 @@
+from_citing,to_base,current_year,year_cited_papers,selected_cited_papers_in_year_no,all_cited_papers_in_year_no
+colt,acl,1995,1993,1,64
+colt,acl,1998,1995,2,39
+colt,acl,2003,2002,2,27
+colt,acl,2004,1996,1,16
+colt,acl,2004,2003,1,43
+colt,acl,2005,1995,1,15
+colt,acl,2006,2003,1,31
+colt,acl,2006,2005,1,43
+colt,acl,2007,1995,1,15
+colt,acl,2008,1993,1,3
+colt,acl,2013,1996,1,3
