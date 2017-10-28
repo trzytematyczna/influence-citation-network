@@ -1,48 +1,53 @@
 source("CitationRatios.R")
 source("ExtractConf.R")
+source("ExtractConfStartYear.R")
 source("Influence.R")
 
 # Historical citations priority functions
 source("hcp/Unity.R")
 source("hcp/ReverseExp.R")
 
-Experiment <- function(hcp, dir = "../../data/MicrosoftAcademic/TimeSeries") {
-  testFiles <- list.files(dir, pattern="*\\.csv")
-  filesVisited <- logical(length(testFiles))
-  ratios <- setNames(data.frame(matrix(ncol = 4, nrow = 0)), c("from", "to", "granger_ft", "granger_tf"))
+Experiment <- function(hcp, 
+                       epsilon=1e-2, 
+                       dirResults="../../results/TimeSeriesExperiments/", 
+                       dirData = "../../data/MicrosoftAcademic/TimeSeries") {
+  dataFilenames <- list.files(dirData, pattern="*\\.csv")
+  filesVisited <- logical(length(dataFilenames))
+  confInfluences <- setNames(data.frame(matrix(ncol = 4, nrow = 0)), c("confA", "confB", "infAB", "infBA"))
   
-  for (idx in 1:length(testFiles)) {
-    # Skip if file already visited
+  for (idx in 1:length(dataFilenames)) {
+    # Skip already visited files
     if (filesVisited[idx]) {
       next()
     }
-    # Extract conferences name
-    testFile <- testFiles[idx]
-    names <- ExtractConf(testFile)
-    
-    secondFile <- paste(names[2], names[1], sep="-")
-    idx2 <- which(grepl(paste("^", secondFile, sep=""), testFiles))
-    testFile2 <- testFiles[idx2]
-    
+    # Open first file (with citations A->B)
+    dataFileNameAB <- dataFilenames[idx]
+    # Extract names of conferences involved (A->B)
+    confNames <- ExtractConf(dataFileNameAB)
+    # Locate filename of reverse data file (B->A) 
+    reverseDataFileName <- paste(confNames[2], confNames[1], sep="-")
+    idx2 <- which(grepl(paste("^", reverseDataFileName, sep=""), dataFilenames))
+    dataFileNameBA <- dataFilenames[idx2]
+    # Mark both data files (A->B, B->A) as visited
     filesVisited[c(idx, idx2)] <- TRUE
-    
-    data <- read.csv(paste(dir, testFile, sep="/"))
-    data2 <- read.csv(paste(dir, testFile2, sep="/"))
-    
-    if (nrow(data) == 0 || nrow(data2) == 0) {
+    # Open bi-directional conferences data files (A->B, B->A)
+    dataAB <- read.csv(paste(dirData, dataFileNameAB, sep="/"))
+    dataBA <- read.csv(paste(dirData, dataFileNameBA, sep="/"))
+    # If any of conference files is empty then skip
+    if (nrow(dataAB) == 0 || nrow(dataBA) == 0) {
       next()
     }
-    # Process first file
-    ratio1 <- CitationRatios(hcp, data)
-    ratio2 <- CitationRatios(hcp, data2)
-    
-    infAB <- Influence(ratio1, ratio2)
-    infBA <- Influence(ratio2, ratio1)
-    
-    cat(sprintf("Influence A->B: %d; B->A: %d",infAB, infBA))
-    
-    #ratios <- rbind(ratios, data.frame(names[1], names[2], ratio, ratio))
-    #return(ratios)
+    # Compute citation ratio time series for both directions (A->B, B->A)
+    crAB <- CitationRatios(hcp, ExtractConfStartYear(dataFileNameAB), dataAB)
+    crBA <- CitationRatios(hcp, ExtractConfStartYear(dataFileNameBA), dataBA)
+    # Compute influence between conferences (A and B) in both directions (A->B, B->A)    
+    infAB <- Influence(crAB, crBA, epsilon)
+    infBA <- Influence(crBA, crAB, epsilon)
+
+    cat(sprintf("Influence %s->%s: (has: %i? pvalue: %f); %s->%s: (has: %i? pvalue: %f)\n",
+                confNames[1], confNames[2], infAB$hasInfluence, infAB$pvalue,
+                confNames[2], confNames[1], infBA$hasInfluence, infBA$pvalue))
+    confInfluences <- rbind(confInfluences, data.frame(confNames[1], confNames[2], infAB$pvalue, infBA$pvalue))
   }
-  ratios
+  confInfluences
 }
