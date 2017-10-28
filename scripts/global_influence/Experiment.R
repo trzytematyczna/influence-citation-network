@@ -47,7 +47,13 @@ Experiment <- function(hcp,
     cat(sprintf("Influence %s->%s: (has: %i? pvalue: %f); %s->%s: (has: %i? pvalue: %f)\n",
                 confNames[1], confNames[2], infAB$hasInfluence, infAB$pvalue,
                 confNames[2], confNames[1], infBA$hasInfluence, infBA$pvalue))
-    confInfluences <- rbind(confInfluences, data.frame(confNames[1], confNames[2], infAB$pvalue, infBA$pvalue))
+    confInfluences <- rbind(confInfluences, data.frame(confA=confNames[1],
+                                                       confB=confNames[2],
+                                                       infAB=infAB$pvalue,
+                                                       infBA=infBA$pvalue))
   }
+  write.csv(confInfluences, paste(dirResults, format(Sys.time(), "results_%Y-%m-%d_%H-%M-%S.csv"), sep="/"),
+            quote = FALSE,
+            row.names = FALSE);
   confInfluences
 }
