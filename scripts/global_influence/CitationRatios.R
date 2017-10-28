@@ -1,9 +1,9 @@
 source("PrepareXForHCP.R")
 
-CitationRatios <- function(hcp, confCitations, dir = "../../data/MicrosoftAcademic/") {
+CitationRatios <- function(hcp, confStartYear, confCitations, confLastYear = 2016, dir = "../../data/MicrosoftAcademic/") {
   uniqueYears <- unique(confCitations$current_year)
   confPubYears <- read.csv(paste(dir, "conferences_first_publication_year.csv", sep = "/"), stringsAsFactors = FALSE)
-  ratios <- c()
+  citationRatios <- rep(0, confLastYear-confStartYear)
   
   # For each unique year of citing conference
   for (year in uniqueYears) {
@@ -18,9 +18,9 @@ CitationRatios <- function(hcp, confCitations, dir = "../../data/MicrosoftAcadem
     # For each year of cited conference, divide number of citations by total number of citations of cited conference in that year
     citationSeries <- periodCitation$selected_cited_papers_in_year_no / periodCitation$all_cited_papers_in_year_no
     # Apply stretched HCP function to citationSeries and sum all the ratios
-    sumRatio <- sum(hcp(hcpX)*citationSeries)
+    citationRatio <- sum(hcp(hcpX)*citationSeries)
     # Store summed ratios from current year
-    ratios <- c(ratios, sumRatio)
+    citationRatios[year-confStartYear+1] <- citationRatio
   }
-  ratios
+  citationRatios
 }
