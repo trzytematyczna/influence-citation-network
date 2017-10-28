@@ -12,7 +12,7 @@ library(testit)
 #   Maximal lag
 ##
 FindMaxLag <- function(d1, d2) {
-  #assert("Time-series need to be equal in length", length(d1) == length(d2))
+  assert("Time-series need to be equal in length", length(d1) == length(d2))
   # Make signal stationary
   sd1<-diff(d1)
   sd2<-diff(d2)
