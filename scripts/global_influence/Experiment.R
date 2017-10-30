@@ -2,9 +2,12 @@ source("CitationRatios.R")
 source("ExtractConf.R")
 source("ExtractConfStartYear.R")
 source("Influence.R")
+source("PrepareInfRow.R")
 
 # Historical citations priority functions
 source("hcp/Unity.R")
+source("hcp/Linear.R")
+source("hcp/Sqrt.R")
 source("hcp/ReverseExp.R")
 
 Experiment <- function(hcp, 
@@ -31,8 +34,8 @@ Experiment <- function(hcp,
     # Mark both data files (A->B, B->A) as visited
     filesVisited[c(idx, idx2)] <- TRUE
     # Open bi-directional conferences data files (A->B, B->A)
-    dataAB <- read.csv(paste(dirData, dataFileNameAB, sep="/"))
-    dataBA <- read.csv(paste(dirData, dataFileNameBA, sep="/"))
+    dataBA <- read.csv(paste(dirData, dataFileNameAB, sep="/"))
+    dataAB <- read.csv(paste(dirData, dataFileNameBA, sep="/"))
     # If any of conference files is empty then skip
     if (nrow(dataAB) == 0 || nrow(dataBA) == 0) {
       next()
@@ -47,10 +50,9 @@ Experiment <- function(hcp,
     cat(sprintf("Influence %s->%s: (has: %i? pvalue: %f); %s->%s: (has: %i? pvalue: %f)\n",
                 confNames[1], confNames[2], infAB$hasInfluence, infAB$pvalue,
                 confNames[2], confNames[1], infBA$hasInfluence, infBA$pvalue))
-    confInfluences <- rbind(confInfluences, data.frame(confA=confNames[1],
-                                                       confB=confNames[2],
-                                                       infAB=infAB$pvalue,
-                                                       infBA=infBA$pvalue))
+
+    confInfluences <- rbind(confInfluences, PrepareInfRow(confNames[1], confNames[2], infAB));
+    confInfluences <- rbind(confInfluences, PrepareInfRow(confNames[2], confNames[1], infBA));
   }
   write.csv(confInfluences, paste(dirResults, format(Sys.time(), "results_%Y-%m-%d_%H-%M-%S.csv"), sep="/"),
             quote = FALSE,
