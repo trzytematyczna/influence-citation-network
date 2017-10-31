@@ -4,5 +4,6 @@ BuildGraph <- function(filename = "../../results/TimeSeriesExperiments/results_2
   globalInfluence <- read.csv(filename)
   g <- graph(directed = TRUE, edges = as.vector(t(globalInfluence[,1:2])))
   deg <- degree(g, mode="out")
-  plot(g, vertex.size=deg*0.9, edge.arrow.size=.2, layout=layout_in_circle)
+  layout <- layout_in_circle(g, order=order(deg))
+  plot(g, vertex.size=deg, edge.arrow.size=.2, layout=layout)
 }
