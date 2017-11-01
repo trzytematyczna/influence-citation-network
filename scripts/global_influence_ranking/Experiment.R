@@ -22,4 +22,5 @@ Experiment <- function(influenceFile = "../../results/TimeSeriesExperiments/resu
   V(g)[is.na(V(g)$ema)]$ema <- 0
   gpr <- BuildPageRankGraph(V(g)$name)
   VisualizeGraph(g, gpr)
+  gpr
 }
